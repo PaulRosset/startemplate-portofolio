@@ -1,0 +1,23 @@
+{
+  "name": "startemplate-portofolio",
+  "version": "1.0.0",
+  "description": "A fast portofolio template.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulRosset/startemplate-portofolio.git"
+  },
+  "keywords": [
+    "template",
+    "portofolio"
+  ],
+  "author": "paulrosset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulRosset/startemplate-portofolio/issues"
+  },
+  "homepage": "https://github.com/PaulRosset/startemplate-portofolio#readme"
+}
